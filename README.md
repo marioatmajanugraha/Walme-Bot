@@ -1,7 +1,9 @@
+
+![photo_2025-02-19_11-50-13](https://github.com/user-attachments/assets/27232dce-51b0-4f89-885c-5bdee12b1a3f)
+
 # 🚀 Walme-Bot
 **Walme-Bot** adalah script otomatis untuk menyelesaikan **task Walme** secara cepat dan efisien.  
 Mendukung penggunaan **proxy** dan **multiple akun** dari `tokens.txt`. 🎯  
-![Uploading photo_2025-02-19_11-50-13.jpg…]()
 ## ✨ Fitur
 ✅ **Menggunakan Banyak Akun** dari `tokens.txt`  
 ✅ **Menyelesaikan Task Secara Otomatis**  
