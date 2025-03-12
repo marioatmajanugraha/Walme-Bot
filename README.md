@@ -48,5 +48,9 @@ Jangan gunakan akun utama untuk menghindari risiko.
 📢 Lisensi
 MIT License - Silakan gunakan dan modifikasi sesuai kebutuhan. 🎉
 
-Dikembangkan oleh @balveerxyz
-🔥 Happy Airdrop Hunting! 🚀
+---
+
+## 📞 Kontak
+Jika ada pertanyaan, hubungi: [@balveerxyz](https://t.me/balveerxyz)
+
+Join channel Telegram: [Airdrop 888](https://t.me/airdroplocked)
