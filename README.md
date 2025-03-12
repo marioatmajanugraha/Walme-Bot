@@ -16,11 +16,12 @@ Mendukung penggunaan **proxy** dan **multiple akun** dari `tokens.txt`. 🎯
 ```sh
 git clone https://github.com/marioatmajanugraha/Walme-Bot.git
 cd Walme-Bot
+```
 
 2️⃣ **Install dependensi**
 ```sh
 npm install axios chalk cfonts readline-sync https-proxy-agent socks-proxy-agent
-
+```
 
 ⚙️ **Konfigurasi**
 1️⃣ Tambahkan token akun ke tokens.txt
@@ -39,11 +40,16 @@ Jalankan dengan perintah:
 ```sh
 node index.js
 Kemudian pilih opsi Gunakan proxy (y/n) sesuai kebutuhan.
+```
+
+---
 
 📜 Catatan
 Task seperti "Connect Telegram/X/Discord" akan dilewati otomatis.
 Gunakan proxy berkualitas untuk menghindari rate-limit.
 Jangan gunakan akun utama untuk menghindari risiko.
+
+---
 
 📢 Lisensi
 MIT License - Silakan gunakan dan modifikasi sesuai kebutuhan. 🎉
